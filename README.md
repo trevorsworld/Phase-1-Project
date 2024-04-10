@@ -1,7 +1,7 @@
-# phase_1_project
+# Phase_1_Project
   # Train Booking
 
-This is a website for booking train tickets hassle-free. It allows users to search for trains, make bookings, and provide reviews. The website primarily caters to students traveling to the Moringa School.
+This is a website for booking train tickets hassle-free. It allows users to search for trains, make bookings, and provide reviews. The website primarily caters to students traveling to Moringa School.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This is a website for booking train tickets hassle-free. It allows users to sear
 
 ## About
 
-The Train Booking website was created to enable students using the train to go to school to purchase their train tickets conveniently. The train's destination is the Moringa School, and it passes through three pick-up destinations. The train's departure from the first station is usually at 6:00 am in the morning. It arrives at the second pick-up destination between 7:00 and 7:30 and the third pick-up destination between 8:00 and 8:30. The train reaches the final destination, the school, at exactly 9:00 am.
+The Train Booking website was created to enable students using the train to go to school to purchase their train tickets conveniently. The train's destination is Moringa School, and it passes through three pick-up destinations. The train's departure from the first station is usually at 6:00 am in the morning. It arrives at the second pick-up destination between 7:00 and 7:30 and the third pick-up destination between 8:00 and 8:30. The train reaches the final destination, the school, at exactly 9:00 am.
 
 The website offers affordable prices for train tickets as it operates as a charity to the community. For any inquiries or assistance, you can reach out to us using the contact information provided below.
 
