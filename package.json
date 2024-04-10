@@ -1,0 +1,14 @@
+{
+  "name": "Phase-1-Project",
+  "version": "1.0.0",
+  "description": "This is a website for booking train tickets hassle-free. It allows users to search for trains, make bookings, and provide reviews. The website primarily caters to students traveling to Moringa School.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
