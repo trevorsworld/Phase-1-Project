@@ -1,5 +1,7 @@
 # Phase_1_Project
   # Train Booking
+  # Author Trevors
+  # Git Link https://trevorsworld.github.io/Phase-1-Project/
 
 This is a website for booking train tickets hassle-free. It allows users to search for trains, make bookings, and provide reviews. The website primarily caters to students traveling to Moringa School.
 
