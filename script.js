@@ -20,3 +20,12 @@ document.getElementById("myForm").addEventListener("submit", function(event) {
 
 
 });
+
+
+function App(){
+    fetch("https://api.irail.be/")
+  .then((res) => res.json())
+  .then((data) => {
+    console.log(data);
+   });
+}
